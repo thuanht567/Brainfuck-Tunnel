@@ -11,7 +11,7 @@ def main():
     log('Type hostname to scan that hostname (example: goo.gl fb.me etc)')
     log('Type exit to exit\n')
 
-    host = str('74.125.24.100')
+    host = str('203.205.21.117')
     port = int('443')
 
     while True:
